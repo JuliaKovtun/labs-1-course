@@ -1,0 +1,5 @@
+﻿  UnitTest_lab_8.1.2.cpp
+C:\Users\Julia\source\repos\Lab_8.1_01_2\Lab_8.1_01_2\Lab_8.1_01_2.cpp(65): warning C4715: Insert2: значение возвращается не при всех путях выполнения
+C:\Users\Julia\source\repos\Lab_8.1_01_2\Lab_8.1_01_2\Lab_8.1_01_2.cpp(75): warning C4715: Insert3: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\Julia\source\repos\Lab_8.1_01_2\Debug\UnitTest_lab_8.1.2.lib и объект C:\Users\Julia\source\repos\Lab_8.1_01_2\Debug\UnitTest_lab_8.1.2.exp
+  UnitTest_lab_8.1.2.vcxproj -> C:\Users\Julia\source\repos\Lab_8.1_01_2\Debug\UnitTest_lab_8.1.2.dll
