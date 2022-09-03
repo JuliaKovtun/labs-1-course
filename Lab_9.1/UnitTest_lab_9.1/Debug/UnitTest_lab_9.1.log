@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest_lab_9.1.cpp
+C:\Users\Julia\source\repos\Lab_9.1\UnitTest_lab_9.1\UnitTest_lab_9.1.cpp(41,1): error C2664: "int PhysicsSearch(Student *,const int)": невозможно преобразовать аргумент 1 из "UnitTestlab91::UnitTestlab91::TestMethod1::Student *" в "Student *"
+C:\Users\Julia\source\repos\Lab_9.1\UnitTest_lab_9.1\UnitTest_lab_9.1.cpp(41,18): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Users\Julia\source\repos\Lab_9.1\Lab_9.1\Lab_9.1.cpp(162,5): message : см. объявление "PhysicsSearch"

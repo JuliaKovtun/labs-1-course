@@ -1,0 +1,5 @@
+﻿  UnitTest_lab_9.2.cpp
+C:\Users\Julia\source\repos\Lab_9.2\Lab_9.2\Lab_9.2.cpp(207,32): warning C4805: ==: небезопасное смешение типа "Spec" и типа "bool" в операции
+C:\Users\Julia\source\repos\Lab_9.2\Lab_9.2\Lab_9.2.cpp(215,36): warning C4805: ==: небезопасное смешение типа "Spec" и типа "bool" в операции
+     Создается библиотека C:\Users\Julia\source\repos\Lab_9.2\Debug\UnitTest_lab_9.2.lib и объект C:\Users\Julia\source\repos\Lab_9.2\Debug\UnitTest_lab_9.2.exp
+  UnitTest_lab_9.2.vcxproj -> C:\Users\Julia\source\repos\Lab_9.2\Debug\UnitTest_lab_9.2.dll

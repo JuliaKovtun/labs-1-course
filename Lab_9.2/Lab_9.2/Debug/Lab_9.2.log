@@ -1,0 +1,4 @@
+﻿  Lab_9.2.cpp
+C:\Users\Julia\source\repos\Lab_9.2\Lab_9.2\Lab_9.2.cpp(207,32): warning C4805: ==: небезопасное смешение типа "Spec" и типа "bool" в операции
+C:\Users\Julia\source\repos\Lab_9.2\Lab_9.2\Lab_9.2.cpp(215,36): warning C4805: ==: небезопасное смешение типа "Spec" и типа "bool" в операции
+  Lab_9.2.vcxproj -> C:\Users\Julia\source\repos\Lab_9.2\Debug\Lab_9.2.exe
