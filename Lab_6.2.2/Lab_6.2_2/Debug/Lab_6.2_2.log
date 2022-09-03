@@ -1,0 +1,5 @@
+﻿  Lab_6.2_2.cpp
+C:\Users\Julia\source\repos\Lab_6.2_2\Lab_6.2_2\Lab_6.2_2.cpp(23,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Julia\source\repos\Lab_6.2_2\Lab_6.2_2\Lab_6.2_2.cpp(61): warning C4715: Copy_Array_Rec: значение возвращается не при всех путях выполнения
+C:\Users\Julia\source\repos\Lab_6.2_2\Lab_6.2_2\Lab_6.2_2.cpp(77): warning C4715: Replace_Array_Rec: значение возвращается не при всех путях выполнения
+  Lab_6.2_2.vcxproj -> C:\Users\Julia\source\repos\Lab_6.2_2\Debug\Lab_6.2_2.exe

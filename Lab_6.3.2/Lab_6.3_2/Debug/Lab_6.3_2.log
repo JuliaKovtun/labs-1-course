@@ -1,0 +1,4 @@
+﻿  Lab_6.3_2.cpp
+C:\Users\Julia\source\repos\Lab_6.3_2\Lab_6.3_2\Lab_6.3_2.cpp(22,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Julia\source\repos\Lab_6.3_2\Lab_6.3_2\Lab_6.3_2.cpp(18,9): warning C4101: arr: неиспользованная локальная переменная
+  Lab_6.3_2.vcxproj -> C:\Users\Julia\source\repos\Lab_6.3_2\Debug\Lab_6.3_2.exe

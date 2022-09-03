@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest_6.3.1.cpp
+C:\Users\Julia\source\repos\Lab_6.3_1\Lab_6.3_1\Lab_6.3_1.cpp(19,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     Создается библиотека C:\Users\Julia\source\repos\Lab_6.3_1\Debug\UnitTest_6.3.1.lib и объект C:\Users\Julia\source\repos\Lab_6.3_1\Debug\UnitTest_6.3.1.exp
+  UnitTest_6.3.1.vcxproj -> C:\Users\Julia\source\repos\Lab_6.3_1\Debug\UnitTest_6.3.1.dll
