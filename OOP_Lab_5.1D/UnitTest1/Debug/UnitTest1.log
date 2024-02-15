@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Julia\source\repos\OOP\Lab_5.1D\Lab_5.1D\Pair.h(21,6): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1D\Lab_5.1D\Pair.h(27,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1D\Lab_5.1D\Pair.h(28,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1D\Lab_5.1D\Pair.h(40,75): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1D\Lab_5.1D\Point.h(14,40): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1D\Lab_5.1D\Point.h(15,40): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1D\Lab_5.1D\Point.h(16,42): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1D\Lab_5.1D\Point.h(17,42): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1D\Lab_5.1D\Point.cpp(17,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1D\Lab_5.1D\Point.cpp(25,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1D\Lab_5.1D\Point.cpp(33,47): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1D\Lab_5.1D\Point.cpp(42,47): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1D\Lab_5.1D\Pair.cpp(11,70): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1D\Lab_5.1D\Pair.cpp(25,50): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1D\Lab_5.1D\Pair.cpp(32,50): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1D\Lab_5.1D\Pair.cpp(90,70): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+     Создается библиотека C:\Users\Julia\source\repos\OOP\Lab_5.1D\Debug\UnitTest1.lib и объект C:\Users\Julia\source\repos\OOP\Lab_5.1D\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Julia\source\repos\OOP\Lab_5.1D\Debug\UnitTest1.dll

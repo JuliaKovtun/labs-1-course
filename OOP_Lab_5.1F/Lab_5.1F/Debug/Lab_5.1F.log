@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Julia\source\repos\OOP\Lab_5.1F\Lab_5.1F\Triad.h(21,48): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1F\Lab_5.1F\Triad.h(22,50): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1F\Lab_5.1F\Triad.h(23,50): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1F\Lab_5.1F\Triad.h(34,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1F\Lab_5.1F\Triad.h(42,40): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1F\Lab_5.1F\Triad.h(43,40): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1F\Lab_5.1F\Triad.h(44,42): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1F\Lab_5.1F\Triad.h(45,42): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1F\Lab_5.1F\Triad.h(52,79): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1F\Lab_5.1F\Time_public.h(10,13): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1F\Lab_5.1F\Time_private.h(19,14): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Julia\source\repos\OOP\Lab_5.1F\Lab_5.1F\Time_private.h(41,87): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  Lab_5.1F.vcxproj -> C:\Users\Julia\source\repos\OOP\Lab_5.1F\Debug\Lab_5.1F.exe
