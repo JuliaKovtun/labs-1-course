@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Julia\source\repos\OOP\Lab_6.7\Lab_6.7\Source.cpp(154,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Julia\source\repos\OOP\Lab_6.7\Lab_6.7\Source.cpp(171): message : выполняется компиляция ссылки на экземпляр шаблон функции "void print<int>(T *,size_t)"
+          with
+          [
+              T=int
+          ]
+     Создается библиотека C:\Users\Julia\source\repos\OOP\Lab_6.7\Debug\UnitTest1.lib и объект C:\Users\Julia\source\repos\OOP\Lab_6.7\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Julia\source\repos\OOP\Lab_6.7\Debug\UnitTest1.dll
